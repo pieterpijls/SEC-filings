@@ -4,7 +4,6 @@ Created on Wed Apr 15 16:57:16 2020
 
 @author: ppijls
 """
-# Test for commit
 
 import os
 from bs4 import BeautifulSoup
@@ -15,6 +14,8 @@ import matplotlib.pyplot as plt
 import requests
 import pandas as pd
 import numpy as np
+
+# New test
 
 # Idea: loop over text files: order by folder
 # merge new filing in extra column on cusip and compute increase etc
